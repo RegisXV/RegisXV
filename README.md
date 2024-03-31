@@ -6,4 +6,5 @@ sneaking in a little bit of javascript game development frameworks such as
 Phaser 3 and Kaboom  
 Interested in learning new languages to expand my knowledge on the field and using my current skill set to make something I can be proud of.
 Always looking for game design collaborations and am open to website development.
+Currently working in the IT field but always open to job offers for software maintenance or development.
 
